@@ -25,16 +25,6 @@ The construction was made based on the design made available through the figma. 
     <img height="545px" src="./assets/print-mobile-3.jpeg" alt="Print da página de inscrição rodando na web na versão mobile"/>
   </div>
 </div>
-
-## Videos
-
-https://user-images.githubusercontent.com/86618257/175783061-aa7d787d-1ccb-457a-bce8-53b5da2ed481.mp4
-
-<div align="center">
-
-https://user-images.githubusercontent.com/86618257/175783065-85a0a106-81ac-4612-9d22-3d8b9d07ccf9.mp4
-
-</div>
   
 ## Stack
 
